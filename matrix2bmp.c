@@ -1,4 +1,4 @@
-/* matrix2bmp-2.c
+/* matrix2bmp.c
  *
  * This code creates a bitmap image according
  * to 3 channel (RGB) matrices.
